@@ -5,10 +5,8 @@
 <pre>
     PORT= 80
     INSTANCES= 1
-
-    URL : ( your server url like https://test.com )
-    TELEGRAM_BOT_TOKEN : ( your bot token )
-
+    URL= ( your server url like https://test.com )
+    TELEGRAM_BOT_TOKEN= ( your bot token )
     MONGODB_ADDRESS= mongodb://127.0.0.1:27017/telebot
 </pre>
 
